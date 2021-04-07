@@ -1,0 +1,5 @@
+baseURL = "http://humaned.github.io/"
+languageCode = "en-us"
+title = "HumanED"
+themes = ["meghna-hugo"]
+

@@ -1,3 +1,3 @@
-[submodule "themes/meghna-hugo"]
-	path = themes/meghna-hugo
+[submodule "themes/meghna"]
+	path = themes/meghna
 	url = https://github.com/HumanED/meghna-hugo.git

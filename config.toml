@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Meghna"
+baseURL = "https://humaned.github.io"
+title = "HumanED"
 theme = "meghna"
 # post pagination
 paginate = "6"
@@ -62,11 +62,6 @@ url = "#team"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-
-[[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
 weight = 6
@@ -76,15 +71,10 @@ name = "contact"
 url = "#contact"
 weight = 7
 
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
-
 ############################# Default Parameters ##########################
 [params]
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
+description = "University of Edinburgh humanoid robotics society."
 author = "HumanED"
 # Google Analytics
 google_analytics_id = "" # Your ID
@@ -101,26 +91,9 @@ expire_days = 2
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
-[[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
+# [[params.social]]
+# icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
 
 ################################ English Language ########################
 [Languages.en]
@@ -129,5 +102,5 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+# copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 

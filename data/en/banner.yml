@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/robo.png"
+  bg_image : "images/backgrounds/robo.png"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "HumanED"
+  content : "University of Edinburgh humanoid robotics society"
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#about"

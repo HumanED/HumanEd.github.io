@@ -10,3 +10,4 @@ banner:
     enable : true
     label : "Explore Us"
     link : "#about"
+  uoe_logo : "images/logo-uoe_2.png"

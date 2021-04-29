@@ -1,7 +1,7 @@
 ############################### team ############################
 team:
   enable : true
-  title : Our Team
+  title : Our Committee
   team_member :
     # team member loop
     - name : Sergio Miguez Aparicio
@@ -23,7 +23,7 @@ team:
     - name : Anaïs Jeger
       image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
-      designation : Secretary & Founder
+      designation : 
       content : Secretary & Founder
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons

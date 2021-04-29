@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Our Aims
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-hand-stop # themify icon pack : https://themify.me/themify-icons
+    title : Limbs
+    content : Researching & Creating individual complex pieces that humans and robots will be able to use.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+    title : Humanoid Robots
+    content : Putting together our knowledge of limbs, robotics, ai and exoskeletons to build Humanoid Robots.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-dashboard # themify icon pack : https://themify.me/themify-icons
+    title : Exoskelletons
+    content : Researching & Creating structures to help to recover movement or performing high physical demanding tasks.

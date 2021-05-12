@@ -90,11 +90,11 @@ expire_days = 2
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/UoEHumanED"
 
-# [[params.social]]
-# icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-# link = "#"
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.linkedin.com/company/humaned/"
 
 ################################ English Language ########################
 [Languages.en]

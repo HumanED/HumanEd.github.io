@@ -1,8 +1,7 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
+  image : images/about-business-man.jpeg
   title : We’re A Digital Design Agency.
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_item : 

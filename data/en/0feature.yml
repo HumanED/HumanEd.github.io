@@ -2,8 +2,8 @@
 feature:
   enable : true
   image : images/about-business-man.jpeg
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Working to Bring Humanoid Robotics Closer to Everyone.
+  content : "We are a Student Lead Society "
   feature_item : 
       # feature item loop
     - title : SEO Optimized
@@ -23,4 +23,4 @@ feature:
       # feature item loop
     - title : Easy Customization
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Sharing our research and promoting robotics in the university 

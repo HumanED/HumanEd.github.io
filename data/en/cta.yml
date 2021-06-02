@@ -1,7 +1,7 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/electronics-white-background.jpeg"
+  bg_image : "images/backgrounds/White_join_us_bk.jpg"
   title : "Excited about robotics?"
   content : "We are always open for new members who are passionate and willing to collaborate with us!"
   button:

@@ -5,7 +5,7 @@ banner:
   bg_image : "images/logo-blackbg.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "HumanED"
-  content : "University of Edinburgh humanoid robotics society"
+  content : "University of Edinburgh Humanoid Robotics Society"
   button:
     enable : true
     label : "Explore Us"

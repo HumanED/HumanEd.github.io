@@ -3,21 +3,18 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : Whether you want to collaborate with us, support our projects or willing to get to know us, you can find here all the information you need to get in contact with us.
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "University of Edinburgh"
       
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
-      
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: uoe.humaned@gmail.com"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: s.miguez-aparicio@ed.ac.uk"
 
 
   # Contact form

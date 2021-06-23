@@ -1,11 +1,7 @@
 ############################### team ############################
 team:
   enable : true
-  title : Our Committee
-  button:
-    enable : true
-    label : "View All Members"
-    link : "/members"
+  title : All Members
   team_member :
     # team member loop
     - name : Sergio Miguez Aparicio

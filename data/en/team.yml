@@ -9,112 +9,71 @@ team:
   team_member :
     # team member loop
     - name : Sergio Miguez Aparicio
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
       designation : 
       content : President & Founder
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/sergio-miguez-aparicio"
+    
         
     # team member loop
     - name : Anaïs Jeger
-      image_webp : images/team/team-2.webp
-      image : images/team/team-2.jpg
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
       designation : 
       content : Secretary & Founder
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
     
     # team member loop
     - name : Divyansh Gupta
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
       designation : 
       content : Treasurer
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
     
     # team member loop
     - name : Cheng Kai ENG
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
       designation : 
       content : Technical Team Manager
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
         
     # team member loop
     - name : Juan del Aguila Ferrandis
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
       designation : 
       content : Technical Team Manager
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
           
     # team member loop
     - name : Pablo Morandé
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
       designation : 
       content : Technical Team Manager
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
           
     # team member loop
     - name : Arnav Sinha
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
       designation : 
       content : Sponsorship & Marketing Manager
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"

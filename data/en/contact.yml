@@ -7,6 +7,10 @@ contact:
 
   # Contact details
   contact_list:
+  
+    - icon : ti-headphone-alt
+      info : "Join us through EUSA: https://www.eusa.ed.ac.uk/activities/view/humaned" 
+  
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "University of Edinburgh"
       
@@ -18,11 +22,11 @@ contact:
 
 
   # Contact form
-  contact_form:
-    enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+  #contact_form:
+    #enable : true
+    #form_action : "#" #contact form works with https://formspree.io
+    #name : "Your Name"
+    #email : "Your Email"
+    #subject : "Subject"
+    #message : "Message"
+    #submit : "Submit"

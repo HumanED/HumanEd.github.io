@@ -74,6 +74,10 @@ expire_days = 2
 
 ############################# social icons ##########################
 [[params.social]]
+icon = "ti-headphone-alt"
+link = "https://www.eusa.ed.ac.uk/activities/view/humaned"
+
+[[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.facebook.com/UoEHumanED"
 

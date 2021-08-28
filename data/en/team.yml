@@ -24,9 +24,7 @@ team:
       image : images/logo-blackbg.png
       designation : 
       content : Secretary & Founder
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+
     
     # team member loop
     - name : Divyansh Gupta
@@ -34,9 +32,7 @@ team:
       image : images/logo-blackbg.png
       designation : 
       content : Treasurer
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+
     
     # team member loop
     - name : Cheng Kai ENG
@@ -44,9 +40,7 @@ team:
       image : images/logo-blackbg.png
       designation : 
       content : Technical Team Manager
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+ 
         
     # team member loop
     - name : Juan del Aguila Ferrandis
@@ -54,9 +48,7 @@ team:
       image : images/logo-blackbg.png
       designation : 
       content : Technical Team Manager
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+
           
     # team member loop
     - name : Pablo Morandé
@@ -64,9 +56,7 @@ team:
       image : images/logo-blackbg.png
       designation : 
       content : Technical Team Manager
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+
           
     # team member loop
     - name : Arnav Sinha
@@ -74,6 +64,4 @@ team:
       image : images/logo-blackbg.png
       designation : 
       content : Sponsorship & Marketing Manager
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+

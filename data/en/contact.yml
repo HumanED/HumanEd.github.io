@@ -17,9 +17,6 @@ contact:
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: uoe.humaned@gmail.com"
       
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: s.miguez-aparicio@ed.ac.uk"
-
 
   # Contact form
   #contact_form:

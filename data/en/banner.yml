@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/logo-blackbg.png"
   bg_image : "images/logo-blackbg.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "HumanED"
+  title : "HumanEd"
   content : "University of Edinburgh Humanoid Robotics Society"
   button:
     enable : true

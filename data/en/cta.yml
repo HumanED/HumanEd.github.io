@@ -7,4 +7,4 @@ cta:
   button:
     enable : true
     label : "JOIN US NOW!"
-    link : "https://www.eusa.ed.ac.uk/activities/view/humaned"
+    link : "#contact"

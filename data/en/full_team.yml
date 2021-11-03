@@ -4,11 +4,12 @@ team:
   title : All Members
   team_member :
     # team member loop
-    - name : Sergio Miguez Aparicio
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
-      designation : 
-      content : President & Founder
+    # team member loop
+    - name : Sergio Miguez
+      image_webp : images/Team/Sergio_Miguez.png
+      image : images/Team/Sergio_Miguez.png
+      designation : MEng Electronics and Computer Science
+      content : President & Co-Founder
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/sergio-miguez-aparicio"
@@ -16,79 +17,385 @@ team:
         
     # team member loop
     - name : Anaïs Jeger
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
-      designation : 
-      content : Secretary & Founder
+      image_webp : images/Team/Anais_Jeger.png
+      image : images/Team/Anais_Jeger.png
+      designation : BEng Electronics and Computer Science
+      content : Secretary & Co-Founder
 
     
     # team member loop
     - name : Divyansh Gupta
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
-      designation : 
+      image_webp : images/Team/Divyansh_Gupta.png
+      image : images/Team/Divyansh_Gupta.png
+      designation : Chemical Engineer
       content : Treasurer
-
-    
-    # team member loop
-    - name : Cheng Kai ENG
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
-      designation : 
-      content : Technical Team Manager
-
+ 
         
     # team member loop
-    - name : Juan del Aguila Ferrandis
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
-      designation : 
+    - name : Juan del Aguila
+      image_webp : images/Team/Juan_del_Aguila.png
+      image : images/Team/Juan_del_Aguila.png
+      designation : Computer Science & Mathematics
       content : Technical Team Manager
 
           
     # team member loop
     - name : Pablo Morandé
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
-      designation : 
+      image_webp : images/Team/Pablo_Morande.png
+      image : images/Team/Pablo_Morande.png
+      designation : Theoretical Physics
+      content : Technical Team Manager
+      
+    # team member loop
+    - name : Yordan Tsvetkov
+      image_webp : images/Team/Yordan_Tsvetkov.png
+      image : images/Team/Yordan_Tsvetkov.png
+      designation : Mechanical Engineer
       content : Technical Team Manager
 
           
     # team member loop
+    - name : Henry Wang
+      image_webp : images/Team/Henry_Wang_Crop.png
+      image : images/Team/Henry_Wang_Crop.png
+      designation : MSc Science & Religion
+      content : Sponsorship & Marketing Manager
+    
+    
+    # team member loop
+    - name : Oscar Jiang
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Mechanical Engineering
+      content : Mechanics Project Manager
+      
+    # team member loop
+    - name : Tarik Akcay
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Computer Science & AI
+      content : Software Project Manager
+    
+        # team member loop
     - name : Arnav Sinha
       image_webp : images/logo-blackbg.png
       image : images/logo-blackbg.png
-      designation : 
-      content : Sponsorship & Marketing Manager
-
-    
-    # team member loop
-    - name : Yordan Tsvetkov
-      image_webp : images/Team/Yordan_Tsvetkov.jpg
-      image : images/Team/Yordan_Tsvetkov.jpg
-      designation : 
-      content : Simulation Manager/Lecturer
+      designation : Computer Science
+      content : Software Engineer
       
-      # team member loop
+    # team member loop
     - name : Meina Lin Wei
       image_webp : images/logo-blackbg.png
       image : images/logo-blackbg.png
-      designation : 
+      designation : Computer Science 
       content : Software Engineer
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/meinalw/"
       
-      # team member loop
+    # team member loop
     - name : Antonio León Villares
       image_webp : images/logo-blackbg.png
       image : images/logo-blackbg.png
-      designation : 
+      designation : Mathematics 
       content : Software Engineer
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "www.linkedin.com/in/antonio-leon-villares-7a341b204"
 
+      
+    # team member loop
+    - name : Thomas Ralph
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Mechanical Engineering
+      content : Mechanical Engineer
+      
+      
+    # team member loop
+    - name : Mia McMillan
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Articifial Intelligence
+      content : Sponsorship & Marketing
+      
+    
+    # team member loop
+    - name : Jan Kocka
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Theoretical physics
+      content : Software Engineer
+      
+      
+    # team member loop
+    - name : Philip Wakley-Skinnarland
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Mechanical Engineering
+      content : Mechanical Engineer
+      
+      
+    # team member loop
+    - name : Despina Demetriadou
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Computational Physics
+      content : 
+      
+      
+    # team member loop
+    - name : Fadi Barazi
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : MEng Electronics & Computer Science
+      content : 
+      
 
-          
+     # team member loop
+    - name : Gökçe Uzun
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Electronics & Computer Science 
+      content : Software Engineer
 
+
+    # team member loop
+    - name : Apoorv Tewari
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : MEng Electronics & Electrical Engineering
+      content : Electrical Engineer
+      
+      
+    # team member loop
+    - name : Natalia Mazancova
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Mechanical Engineering
+      content : Mechanical Engineer
+      
+      
+    # team member loop
+    - name : Haroon Zafar
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : 
+      content : 
+    
+    
+    # team member loop
+    - name : Marina Kazamia
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Computer Science
+      content : Software Engineer
+      
+      
+    # team member loop
+    - name : Oran Harold
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Mechanical Engineering
+      content : Mechanical Engineer
+    
+    
+    # team member loop
+    - name : Niveda Ramesh Kumar
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : AI & Computer Science
+      content : 
+      
+    
+    # team member loop
+    - name : Ram Nair
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : AI & Computer Science
+      content : Software Engineer
+
+
+    # team member loop
+    - name : Ryan Pallar 
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Electronics & Computer Science
+      content : 
+      
+      
+    # team member loop
+    - name : Ebony Coward
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Medicine
+      content : Mechanical Engineer
+    
+    
+    # team member loop
+    - name : Christopher Sutjiono
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : MEng Electronics & Electrical Engineering
+      content : Electrical Engineer
+      
+
+    # team member loop
+    - name : Arun Gopalakrishnan
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : MEng Electronics & Computer Science
+      content : Software Engineer
+      
+      
+    # team member loop
+    - name : Leticia Robledo Diaz
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : AI & Computer Science
+      content : Software Engineer
+    
+    
+    # team member loop
+    - name : Howard Yates 
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : 
+      content : 
+      
+      
+    # team member loop
+    - name : Daniel Holek
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : 
+      content : 
+    
+    
+    # team member loop
+    - name : Yue Shibo
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : MEng Electronics & Electrical Engineering
+      content : Electrical Engineer
+      
+      
+    # team member loop
+    - name : Ivy Kalegi
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Electronics & Electrical Engineering
+      content : 
+      
+      
+    # team member loop
+    - name : Pavel Havlin
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : 
+      content : 
+      
+      
+      # team member loop
+    - name : Sofia Gilardini
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : MEng Mechanical & Electrical Engineering
+      content : Software Engineer
+      
+      
+    # team member loop
+    - name : Mareks Ceplitis
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : MEng Mechanical Engineering 
+      content : Mechanical Engineer
+    
+    
+    # team member loop
+    - name : Jake Walsh
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : 
+      content : 
+      
+      
+    # team member loop
+    - name : Elizabeth Forster
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Physics
+      content : 
+      
+      
+    # team member loop
+    - name : Lucas Leschynski
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : 
+      content : 
+    
+    
+    # team member loop
+    - name : Jake Walsh
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : 
+      content : 
+      
+      
+    # team member loop
+    - name : Jack Carlin
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Astrophysics
+      content : 
+      
+      
+    # team member loop
+    - name : Subhadeep Sarkar
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : Astrophysics
+      content : Software Engineer
+      
+      
+    # team member loop
+    - name : Nandini Lakhotia
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : AI & Computer Science
+      content : 
+      
+      
+    # team member loop
+    - name : Luke MacWilliam
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : MSc Computational Physics
+      content : 
+      
+      
+    # team member loop
+    - name : Gabriel Chan
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : 
+      content : 
+      
+    
+    # team member loop
+    - name : Pavan Chhalani
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation :
+      content : 
+      
+      
+    # team member loop
+    - name : Leo Sutcliffe
+      image_webp : images/logo-blackbg.png
+      image : images/logo-blackbg.png
+      designation : 
+      content : 
+    

@@ -74,6 +74,10 @@ expire_days = 2
 
 ############################# social icons ##########################
 [[params.social]]
+icon = "ti-instagram"
+link = "https://www.instagram.com/humanedinburgh/"
+
+[[params.social]]
 icon = "ti-headphone-alt"
 link = "https://www.eusa.ed.ac.uk/activities/view/humaned"
 

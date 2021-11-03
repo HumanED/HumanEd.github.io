@@ -8,11 +8,11 @@ team:
     link : "/members"
   team_member :
     # team member loop
-    - name : Sergio Miguez Aparicio
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
-      designation : 
-      content : President & Founder
+    - name : Sergio Miguez
+      image_webp : images/Team/Sergio_Miguez.png
+      image : images/Team/Sergio_Miguez.png
+      designation : MEng Electronics and Computer Science
+      content : President & Co-Founder
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/sergio-miguez-aparicio"
@@ -20,48 +20,47 @@ team:
         
     # team member loop
     - name : Anaïs Jeger
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
-      designation : 
-      content : Secretary & Founder
+      image_webp : images/Team/Anais_Jeger.png
+      image : images/Team/Anais_Jeger.png
+      designation : BEng Electronics and Computer Science
+      content : Secretary & Co-Founder
 
     
     # team member loop
     - name : Divyansh Gupta
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
-      designation : 
+      image_webp : images/Team/Divyansh_Gupta.png
+      image : images/Team/Divyansh_Gupta.png
+      designation : Chemical Engineer
       content : Treasurer
-
-    
-    # team member loop
-    - name : Cheng Kai ENG
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
-      designation : 
-      content : Technical Team Manager
  
         
     # team member loop
-    - name : Juan del Aguila Ferrandis
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
-      designation : 
+    - name : Juan del Aguila
+      image_webp : images/Team/Juan_del_Aguila.png
+      image : images/Team/Juan_del_Aguila.png
+      designation : Computer Science & Mathematics
       content : Technical Team Manager
 
           
     # team member loop
     - name : Pablo Morandé
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
-      designation : 
+      image_webp : images/Team/Pablo_Morande.png
+      image : images/Team/Pablo_Morande.png
+      designation : Theoretical Physics
+      content : Technical Team Manager
+      
+    # team member loop
+    - name : Yordan Tsvetkov
+      image_webp : images/Team/Yordan_Tsvetkov.png
+      image : images/Team/Yordan_Tsvetkov.png
+      designation : Mechanical Engineer
       content : Technical Team Manager
 
           
     # team member loop
-    - name : Arnav Sinha
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
+    - name : Henry Wang
+      image_webp : images/Team/Henry_Wang_Crop.png
+      image : images/Team/Henry_Wang_Crop.png
       designation : 
       content : Sponsorship & Marketing Manager
 

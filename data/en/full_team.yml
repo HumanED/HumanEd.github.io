@@ -5,7 +5,7 @@ team:
   team_member :
     # team member loop
     # team member loop
-    - name : Sergio Miguez
+    - name : Sergio Miguez Aparicio
       image_webp : images/Team/Sergio_Miguez.png
       image : images/Team/Sergio_Miguez.png
       designation : MEng Electronics and Computer Science
@@ -30,7 +30,15 @@ team:
       designation : Chemical Engineer
       content : Treasurer
  
-        
+    
+    # team member loop
+    - name : Henry Wang
+      image_webp : images/Team/Henry_Wang.png
+      image : images/Team/Henry_Wang.png
+      designation : MSc Science & Religion
+      content : Sponsorship & Marketing Manager
+      
+    
     # team member loop
     - name : Juan del Aguila
       image_webp : images/Team/Juan_del_Aguila.png
@@ -48,18 +56,10 @@ team:
       
     # team member loop
     - name : Yordan Tsvetkov
-      image_webp : images/Team/Yordan_Tsvetkov.png
-      image : images/Team/Yordan_Tsvetkov.png
+      image_webp : images/Team/Yordan_Tsvetkov1.jpg
+      image : images/Team/Yordan_Tsvetkov1.jpg
       designation : Mechanical Engineer
       content : Technical Team Manager
-
-          
-    # team member loop
-    - name : Henry Wang
-      image_webp : images/Team/Henry_Wang_Crop.png
-      image : images/Team/Henry_Wang_Crop.png
-      designation : MSc Science & Religion
-      content : Sponsorship & Marketing Manager
     
     
     # team member loop

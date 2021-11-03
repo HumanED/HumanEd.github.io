@@ -47,7 +47,7 @@ team:
       image_webp : images/Team/Juan_del_Aguila.png
       image : images/Team/Juan_del_Aguila.png
       designation : Computer Science & Mathematics
-      content : Technical Team Manager
+      content : Technical Director
 
           
     # team member loop
@@ -55,7 +55,7 @@ team:
       image_webp : images/Team/Pablo_Morande.png
       image : images/Team/Pablo_Morande.png
       designation : Theoretical Physics
-      content : Technical Team Manager
+      content : Technical Director
       
     # team member loop
     - name : Yordan Tsvetkov
@@ -64,7 +64,7 @@ team:
       image : images/Team/Yordan_Tsvetkov1.jpg
       #image : images/Team/Sergio_Miguez.png
       designation : Mechanical Engineer
-      content : Technical Team Manager
+      content : Technical Director
 
           
     

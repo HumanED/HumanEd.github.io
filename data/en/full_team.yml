@@ -44,7 +44,7 @@ team:
       image_webp : images/Team/Juan_del_Aguila.png
       image : images/Team/Juan_del_Aguila.png
       designation : Computer Science & Mathematics
-      content : Technical Team Manager
+      content : Technical Director
 
           
     # team member loop
@@ -52,14 +52,14 @@ team:
       image_webp : images/Team/Pablo_Morande.png
       image : images/Team/Pablo_Morande.png
       designation : Theoretical Physics
-      content : Technical Team Manager
+      content : Technical Director
       
     # team member loop
     - name : Yordan Tsvetkov
       image_webp : images/Team/Yordan_Tsvetkov1.jpg
       image : images/Team/Yordan_Tsvetkov1.jpg
       designation : Mechanical Engineer
-      content : Technical Team Manager
+      content : Technical Director
     
     
     # team member loop
@@ -95,8 +95,8 @@ team:
       
     # team member loop
     - name : Antonio León Villares
-      image_webp : images/logo-blackbg.png
-      image : images/logo-blackbg.png
+      image_webp : images/Team/Antonio_Leon.jpg
+      image : images/Team/Antonio_Leon.jpg
       designation : Mathematics 
       content : Software Engineer
       social :

@@ -7,4 +7,4 @@ cta:
   button:
     enable : true
     label : "JOIN US NOW!"
-    link : "#contact"
+    link : "https://forms.office.com/r/K4tMfburpr"

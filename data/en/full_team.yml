@@ -3,6 +3,49 @@ team:
   enable : true
   title : All Members
   team_member :
+
+    # team member loop
+    - name : Philip Wakley Skinnarland
+      image_webp : images/Team/Philip_Wakley_Skinnarland.jpeg
+      image : images/Team/Philip_Wakley_Skinnarland.jpeg
+      designation : BEng Mechanical Engineering
+      content : President/Technical Director
+    
+    # team member loop
+    - name : Neel Chaudhari
+      image_webp : images/Team/Neel_Chaudhari.jpeg
+      image : images/Team/Neel_Chaudhari.jpeg
+      designation : BEng Computer Science
+      content : Secretary
+    
+    # team member loop
+    - name : Michael Gammoh
+      image_webp : images/Team/Michael_Gammoh.jpeg
+      image : images/Team/Michael_Gammoh.jpeg
+      designation : BEng Mechanical and Electrical Engineering
+      content : Treasurer
+    
+    # team member loop
+    - name : Amishi Gangwar
+      image_webp : images/Team/Amishi_Gangwar.jpg
+      image : images/Team/Amishi_Gangwar.jpg
+      designation : BSc Artificial Intelligence and Computer Science
+      content : Head of Marketing and Sponsorship
+
+    # team member loop
+    - name : Aryan Sharma
+      image_webp : images/Team/Aryan_Sharma.jpg
+      image : images/Team/Aryan_Sharma.jpg
+      designation : BSc Artificial Intelligence and Computer Science
+      content : Technical Director
+    
+    # team member loop
+    - name : Julia Morini
+      image_webp : images/Team/Julia_Morini.jpeg
+      image : images/Team/Julia_Morini.jpeg
+      designation : Chemical Director
+      content : Technical Director
+    
     # team member loop
     # team member loop
     - name : Sergio Miguez Aparicio

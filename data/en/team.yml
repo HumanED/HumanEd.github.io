@@ -8,62 +8,45 @@ team:
     link : "/members"
   team_member :
     # team member loop
-    - name : Sergio Miguez
-      image_webp : images/Team/Sergio_Miguez.png
-      image : images/Team/Sergio_Miguez.png
-      designation : MEng Electronics and Computer Science
-      content : President & Co-Founder
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/sergio-miguez-aparicio"
-    
-        
-    # team member loop
-    - name : Anaïs Jeger
-      image_webp : images/Team/Anais_Jeger.png
-      image : images/Team/Anais_Jeger.png
-      designation : BEng Electronics and Computer Science
-      content : Secretary & Co-Founder
-
+    - name : Philip Wakley Skinnarland
+      image_webp : images/Team/Philip_Wakley_Skinnarland.png
+      image : images/Team/Philip_Wakley_Skinnarland.png
+      designation : BEng Mechanical Engineering
+      content : President/Technical Director
     
     # team member loop
-    - name : Divyansh Gupta
-      image_webp : images/Team/Divyansh_Gupta.png
-      image : images/Team/Divyansh_Gupta.png
-      designation : Chemical Engineer
+    - name : Neel Chaudhari
+      image_webp : images/Team/Neel_Chaudhari.png
+      image : images/Team/Neel_Chaudhari.png
+      designation : BEng Computer Science
+      content : Secretary
+    
+    # team member loop
+    - name : Michael Gammoh
+      image_webp : images/Team/Michael_Gammoh.png
+      image : images/Team/Michael_Gammoh.png
+      designation : BEng Mechanical and Electrical Engineering
       content : Treasurer
- 
- 
+    
     # team member loop
-    - name : Henry Wang
-      image_webp : images/Team/Henry_Wang.png
-      image : images/Team/Henry_Wang.png
-      designation : 
-      content : Sponsorship & Marketing Manager
-
+    - name : Amishi Gangwar
+      image_webp : images/Team/Amishi_Gangwar.png
+      image : images/Team/Amishi_Gangwar.png
+      designation : BSc Artificial Intelligence and Computer Science
+      content : Head of Marketing and Sponsorship
 
     # team member loop
-    - name : Juan del Aguila
-      image_webp : images/Team/Juan_del_Aguila.png
-      image : images/Team/Juan_del_Aguila.png
-      designation : Computer Science & Mathematics
+    - name : Aryan Sharma
+      image_webp : images/Team/Aryan_Sharma.png
+      image : images/Team/Aryan_Sharma.png
+      designation : BSc Artificial Intelligence and Computer Science
       content : Technical Director
-
-          
+    
     # team member loop
-    - name : Pablo Morandé
-      image_webp : images/Team/Pablo_Morande.png
-      image : images/Team/Pablo_Morande.png
-      designation : Theoretical Physics
-      content : Technical Director
-      
-    # team member loop
-    - name : Yordan Tsvetkov
-      image_webp : images/Team/Yordan_Tsvetkov1.jpg
-      #image_webp : images/Team/Sergio_Miguez.png
-      image : images/Team/Yordan_Tsvetkov1.jpg
-      #image : images/Team/Sergio_Miguez.png
-      designation : Mechanical Engineer
+    - name : Julia Morini
+      image_webp : images/Team/Julia_Morini.png
+      image : images/Team/Julia_Morini.png
+      designation : Chemical Director
       content : Technical Director
 
           

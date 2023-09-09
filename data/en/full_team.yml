@@ -48,7 +48,7 @@ team:
     
     # team member loop
     # team member loop
-    - name : Sergio Miguez Aparicio
+    - name : Sergio Miguez Aparicio(1)
       image_webp : images/Team/Sergio_Miguez.png
       image : images/Team/Sergio_Miguez.png
       designation : MEng Electronics and Computer Science

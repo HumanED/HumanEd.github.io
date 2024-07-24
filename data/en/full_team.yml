@@ -4,47 +4,61 @@ team:
   title : All Members
   team_member :
 
+   
     # team member loop
-    - name : Philip Wakley Skinnarland
-      image_webp : images/Team/Philip_Wakley_Skinnarland.png
-      image : images/Team/Philip_Wakley_Skinnarland.png
-      designation : BEng Mechanical Engineering
-      content : President/Technical Director
+    - name : Alvar Ehrnrooth
+      image_webp : 
+      image : 
+      designation : BEng Electrical and Mechanical Engineering
+      content : President
     
     # team member loop
-    - name : Neel Chaudhari
-      image_webp : images/Team/Neel_Chaudhari.png
-      image : images/Team/Neel_Chaudhari.png
-      designation : BEng Computer Science
-      content : Secretary
-
-
-    # team member loop
-    - name : Aryan Sharma
-      image_webp : images/Team/Aryan_Sharma.png
-      image : images/Team/Aryan_Sharma.png
-      designation : BSc Artificial Intelligence and Computer Science
-      content : Technical Director    
+    - name : Micheal Gammoh
+      image_webp : images/Team/Michael_Gammoh.png
+      image : images/Team/Michael_Gammoh.png
+      designation : BEng Electrical and Mechanical Engineering
+      content : Secretary/Vice President 
+ 
     
     # team member loop
-    - name : Amishi Gangwar
-      image_webp : images/Team/Amishi_Gangwar.png
-      image : images/Team/Amishi_Gangwar.png
-      designation : BSc Artificial Intelligence and Computer Science
+    - name : Nicolas Shen
+      image_webp : 
+      image : 
+      designation : MEng Electrical and Mechanical Engineering
       content : Head of Marketing and Sponsorship
 
     # team member loop
-    - name : Michael Gammoh
-      image_webp : images/Team/Michael_Gammoh.png
-      image : images/Team/Michael_Gammoh.png
-      designation : BEng Mechanical and Electrical Engineering
+    - name : Emir Ersanli
+      image_webp : images/Team/Emir_Ersanli.jpg
+      image : images/Team/Emir_Ersanli.jpg
+      designation : 
       content : Treasurer
     
     # team member loop
-    - name : Julia Morini
-      image_webp : images/Team/Julia_Morini.png
-      image : images/Team/Julia_Morini.png
-      designation : Chemical Director
-      content : Technical Director
-    
-    
+    - name : Cailean Johnson 
+      image_webp : 
+      image : 
+      designation : MEng Mechanical Engineering
+      content :  Developed Projects Technical Director 
+
+     # team member loop
+    - name : Shehan Medagedara
+      image_webp : 
+      image : 
+      designation : 
+      content : Exoskeleton Team Technical Director 
+
+      # team member loop
+    - name : Pawel Hoffman 
+      image_webp : 
+      image : 
+      designation : 
+      content : Biomimeitc Hand Technical Director 
+
+    # team member loop
+    - name : Ethan Cheam Kai Jun
+      image_webp : images/Team/Ethan_Cheam.jpg
+      image : images/Team/Ethan_Cheam.jpg
+      designation : 
+      content : AI Team Technical Director
+  

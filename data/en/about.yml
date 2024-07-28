@@ -3,6 +3,10 @@ about:
   enable : true
   title : Our Aims
   about_item :
+  - icon : ti-hummer # themify icon pack : https://themify.me/themify-icons
+    title : Developed Projects 
+    content : 
+
   - icon : ti-hand-stop # themify icon pack : https://themify.me/themify-icons
     title : Limbs
     content : Researching & Creating individual complex pieces that humans and robots will be able to use.

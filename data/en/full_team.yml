@@ -4,7 +4,6 @@ team:
   title : All Members
   team_member :
 
-   
     # team member loop
     - name : Alvar Ehrnrooth
       image_webp : 
@@ -36,8 +35,8 @@ team:
     
     # team member loop
     - name : Cailean Johnson 
-      image_webp : 
-      image : 
+      image_webp : images/Team/Cailean_Johnson.jpg
+      image : images/Team/Caliean_Johnson.jpg
       designation : MEng Mechanical Engineering
       content :  Developed Projects Technical Director 
 
@@ -59,6 +58,6 @@ team:
     - name : Ethan Cheam Kai Jun
       image_webp : images/Team/Ethan_Cheam.jpg
       image : images/Team/Ethan_Cheam.jpg
-      designation : 
+      designation : Bsc Artifical Intelligence and Computer Science
       content : AI Team Technical Director
   

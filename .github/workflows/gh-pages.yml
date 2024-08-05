@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: Linux
+    runs-on: Windows
 
     steps:
       - uses: actions/checkout@v2

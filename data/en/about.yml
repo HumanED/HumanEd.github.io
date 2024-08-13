@@ -5,7 +5,7 @@ about:
   about_item :
   - icon : ti-hummer # themify icon pack : https://themify.me/themify-icons
     title : Developed Projects 
-    content : 
+    content : placeholder
 
   - icon : ti-hand-stop # themify icon pack : https://themify.me/themify-icons
     title : Limbs

@@ -30,7 +30,7 @@ team:
     - name : Emir Ersanli
       image_webp : images/Team/Emir_Ersanli.jpg
       image : images/Team/Emir_Ersanli.jpg
-      designation : MEng Mechanical Engineering
+      designation : BEng Electronics and Computer Science 
       content : Treasurer
     
     # team member loop

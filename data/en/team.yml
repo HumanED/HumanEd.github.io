@@ -33,7 +33,7 @@ team:
     - name : Emir Ersanli
       image_webp : images/Team/Emir_Ersanli.jpg
       image : images/Team/Emir_Ersanli.jpg
-      designation : placeholder
+      designation : BEng Electronics and Computer Science 
       content : Treasurer
     
     # team member loop
@@ -47,14 +47,14 @@ team:
     - name : Shehan Medagedara
       image_webp : images/Team/placeholder.jpg
       image : images/Team/placeholder.jpg
-      designation : placeholder
+      designation : MEng Mechanical Engineering 
       content : Exoskeleton Team Technical Director 
 
       # team member loop
     - name : Pawel Hoffman 
       image_webp : images/Team/placeholder.jpg
       image : images/Team/placeholder.jpg
-      designation : placeholder
+      designation : placeholder degree
       content : Biomimeitc Hand Technical Director 
 
     # team member loop

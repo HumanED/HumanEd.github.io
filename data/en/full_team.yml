@@ -6,8 +6,8 @@ team:
 
     # team member loop
     - name : Alvar Ehrnrooth
-      image_webp : 
-      image : 
+      image_webp : images/Team/placeholder.jpg
+      image : images/Team/placeholder.jpg
       designation : BEng Electrical and Mechanical Engineering
       content : President
     
@@ -21,8 +21,8 @@ team:
     
     # team member loop
     - name : Nicolas Shen
-      image_webp : 
-      image : 
+      image_webp : images/Team/placeholder.jpg
+      image : images/Team/placeholder.jpg
       designation : MEng Electrical and Mechanical Engineering
       content : Head of Marketing and Sponsorship
 
@@ -30,7 +30,7 @@ team:
     - name : Emir Ersanli
       image_webp : images/Team/Emir_Ersanli.jpg
       image : images/Team/Emir_Ersanli.jpg
-      designation : 
+      designation : MEng Mechanical Engineering
       content : Treasurer
     
     # team member loop
@@ -42,16 +42,16 @@ team:
 
      # team member loop
     - name : Shehan Medagedara
-      image_webp : 
-      image : 
-      designation : 
+      image_webp : images/Team/placeholder.jpg
+      image : images/Team/placeholder.jpg
+      designation : MEng Mechanical Engineering 
       content : Exoskeleton Team Technical Director 
 
       # team member loop
     - name : Pawel Hoffman 
-      image_webp : 
-      image : 
-      designation : 
+      image_webp : images/Team/placeholder.jpg
+      image : images/Team/placeholder.jpg
+      designation : placeholder degree
       content : Biomimeitc Hand Technical Director 
 
     # team member loop

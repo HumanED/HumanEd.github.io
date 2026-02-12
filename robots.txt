@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Redirect to new site
-Sitemap: https://humaned.framer.website//sitemap.xml
+Sitemap: https://humaned.eusa.ed.ac.uk//sitemap.xml
